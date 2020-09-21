@@ -12,7 +12,7 @@ Refer to Kent's [Uses Page](https://kentcdodds.com/uses/) to set up your build e
 
 In this video, Kent shows us the necessary code to create the user interface. He tells us that we're going to need to append our JavaScript DOM (Document Object Model) elements, which will be the `root` of our application.
 
-Then, we'll need to get access to the JS DOM element using the document's API. 
+Then, we'll need to get access to the JS DOM element using the document's API.
 
 Note: The *definition of an API*, according to Wikipedia:
 
@@ -36,3 +36,5 @@ Below is the code Kent writes out for us in the tutorial. Review it alongside th
 ```
 
 Review this egghead tutorial about the DOM [here](https://egghead.io/lessons/javascript-wtf-is-the-dom?pl=introduction-to-client-side-web-apis-72d0).
+
+The next entry for this note will be Monday, September 21, 2020.
